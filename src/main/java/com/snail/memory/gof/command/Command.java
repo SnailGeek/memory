@@ -1,2 +1,5 @@
-package com.snail.memory.gof.command;public interface Command {
+package com.snail.memory.gof.command;
+
+public interface Command {
+    void execute();
 }
